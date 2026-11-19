@@ -6,8 +6,6 @@ PinControl is a dockable ScriptUI panel for Adobe After Effects that creates sha
 
 <img src="docs/images/panel-en.png" alt="PinControl panel" width="399">
 
-![Path point controllers](docs/images/path-points.png)
-
 ## Features
 
 - **Puppet pins**: works with Position, Advanced, and Bend pins. Scale and rotation are also linked for Advanced and Bend pins.

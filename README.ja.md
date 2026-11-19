@@ -6,8 +6,6 @@ PinControl は、Adobe After Effects の**パペットピン**と**シェイプ�
 
 <img src="docs/images/panel-ja.png" alt="PinControl パネル" width="399">
 
-![パスのポイントのコントローラー](docs/images/path-points.png)
-
 ## 機能
 
 - **パペットピン**: 位置ピン・詳細ピン・ベンドピンに対応します。詳細ピンとベンドピンは、スケールと回転もリンクします。
