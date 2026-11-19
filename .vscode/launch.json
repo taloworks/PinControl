@@ -1,0 +1,21 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "extendscript-debugger",
+            "request": "launch",
+            "name": "Debug PinControl.jsx in After Effects",
+            "program": "${workspaceFolder}/PinControl.jsx",
+            "engineName": "aftereffects"
+        },
+        {
+            "type": "extendscript-debugger",
+            "request": "launch",
+            "name": "Debug Current File in After Effects",
+            "program": "${file}",
+            "engineName": "aftereffects"
+        }
+    ]
+}
+
